@@ -1,5 +1,5 @@
 {
-    "name": "payments/php_sdk",
+    "name": "aiandev/boipa_php_sdk",
     "type": "library",
     "version": "1.0.0",
     "description": "PHP Implementation of the Payments API",
